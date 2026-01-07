@@ -5,9 +5,9 @@ import cv2
 import os
 import matplotlib.pyplot as plt
 
-train_dir = "/Users/arathirk/Desktop/Dataset/Train"
-test_dir = "/Users/arathirk/Desktop/Dataset/Test"
-val_dir = "/Users/arathirk/Desktop/Dataset/Validation"
+train_dir = "/Users/maanas/Desktop/Dataset/Train"
+test_dir = "/Users/maanas/Desktop/Dataset/Test"
+val_dir = "/Users/maanas/Desktop/Dataset/Validation"
 
 def load_images_from_folder(folder, img_size=(32, 32)):
     images = []
