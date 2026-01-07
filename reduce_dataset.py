@@ -3,12 +3,12 @@ import random
 
 # Paths to your six folders
 folders = [
-    "/Users/arathirk/Downloads/Dataset/Train/Real",
-    "/Users/arathirk/Downloads/Dataset/Train/Fake",
-    "/Users/arathirk/Downloads/Dataset/Test/Real",
-    "/Users/arathirk/Downloads/Dataset/Test/Fake",
-    "/Users/arathirk/Downloads/Dataset/Validation/Real",
-    "/Users/arathirk/Downloads/Dataset/Validation/Fake"
+    "/Users/maanas/Downloads/Dataset/Train/Real",
+    "/Users/maanas/Downloads/Dataset/Train/Fake",
+    "/Users/maanas/Downloads/Dataset/Test/Real",
+    "/Users/maanas/Downloads/Dataset/Test/Fake",
+    "/Users/maanas/Downloads/Dataset/Validation/Real",
+    "/Users/maanas/Downloads/Dataset/Validation/Fake"
 ]
 
 # Function to ensure each folder has exactly 20000 image files
